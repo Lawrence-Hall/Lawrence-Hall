@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Lawrence-Hall
 - 👀 I’m interested in Networking, Software Development (PHP, C, Java) and Music Tech.
+- 📖 I'm am a student at Aberystwyth Univeristy - BSc in Computer Science.
 - 🌱 I’m currently learning Object Orinted Programming design in Java.
-- 📫 How to reach me at my site https://lawrencehall.me or at my email: contact@lawrencehall.me
+- 📫 How to reach me, at my site https://lawrencehall.me or at my email: contact@lawrencehall.me
 
 <!---
 Lawrence-Hall/Lawrence-Hall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

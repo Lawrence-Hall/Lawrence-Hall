@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lawrence-Hall
-- 👀 I’m interested in Networking, Software Development (PHP, C, Java) and Music Tech.
+- 👀 I’m interested in Networking, Software Development (PHP, C, Java), Electronics (LoRa) and Music Tech.
 - 📖 I'm am a student at Aberystwyth Univeristy - BSc in Computer Science.
-- 🌱 I’m currently learning Object Orinted Programming design in Java, ReactJS and K8s.
+- 🌱 I’m currently learning NextJS and K8s.
 - 📫 How to reach me, at my site https://lawrencehall.me or at my email: contact@lawrencehall.me
 
 <!---

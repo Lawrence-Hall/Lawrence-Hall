@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lawrence-Hall
 - 👀 I’m interested in Networking, Software Development (PHP, JS, Kotlin and Java), Electronics (LoRa, ESP8226s) and Music Tech (Ableton and Live Events).
-- 📖 I'm am a student at Aberystwyth Univeristy - BSc in Computer Science.
+- 📖 I'm a graduate of Aberystwyth University - BSc in Computer Science.
 - 🌱 I’m currently learning D3JS for graph visualisation and LeafletJS.
 - 📫 How to reach me, at my site https://lawrencehall.me or at my email: contact@lawrencehall.me
 
